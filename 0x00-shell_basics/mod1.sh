@@ -8,4 +8,3 @@ for file in $files; do
   # Add a new line to the end of each file
   echo "" >> "$file"
 done
-

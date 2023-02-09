@@ -1,4 +1,3 @@
 #!/bin/bash
 cd ..
 cp -u $(ls *.html) .
-

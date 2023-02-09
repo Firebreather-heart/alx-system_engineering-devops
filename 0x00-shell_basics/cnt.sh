@@ -10,4 +10,3 @@ for file in $files; do
   # Print the number of lines and the file name
   echo "$lines $file"
 done
-

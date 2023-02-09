@@ -21,4 +21,3 @@ for file in $files; do
     mv $tmpfile $directory/$file
   fi
 done
-
